@@ -1,1 +1,1 @@
-## Praticing MLOPs Session 1
+## Praticing MLOps Session 1
